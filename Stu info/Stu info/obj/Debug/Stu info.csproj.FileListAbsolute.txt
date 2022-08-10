@@ -1,0 +1,10 @@
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\bin\Debug\Stu info.exe.config
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\bin\Debug\Stu info.exe
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\bin\Debug\Stu info.pdb
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\obj\Debug\Stu_info.Form1.resources
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\obj\Debug\Stu_info.Properties.Resources.resources
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\obj\Debug\Stu info.csproj.GenerateResource.Cache
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\obj\Debug\Stu info.exe
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\obj\Debug\Stu info.pdb
+c:\users\apg\documents\visual studio 2015\Projects\Stu info\Stu info\obj\Debug\Stu info.csprojResolveAssemblyReference.cache
+C:\Users\APG\documents\visual studio 2015\Projects\Stu info\Stu info\obj\Debug\Stu_info.Form2.resources
